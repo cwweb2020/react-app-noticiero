@@ -1,3 +1,11 @@
+/* Advertencia */
+
+El proyecto esta consumiendo el Api Rest del NewsApi y se puede ejecutar unicamente en localhost. 
+Por lo tanto si quiere ver el proyecto solo puede descargar y ejecutar con npm start // 
+(El inconveniente sucede por algunos cambios de politica de NewsApi o de su licencia ).
+Desde ya Muchas Gracias 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
